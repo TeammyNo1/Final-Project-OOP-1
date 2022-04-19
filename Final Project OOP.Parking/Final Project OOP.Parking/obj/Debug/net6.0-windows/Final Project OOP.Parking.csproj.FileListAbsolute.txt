@@ -1,0 +1,18 @@
+C:\Users\TeammyNo1\Desktop\github\Final-Project-OOP-1\Final Project OOP.Parking\Final Project OOP.Parking\bin\Debug\net6.0-windows\Final Project OOP.Parking.exe
+C:\Users\TeammyNo1\Desktop\github\Final-Project-OOP-1\Final Project OOP.Parking\Final Project OOP.Parking\bin\Debug\net6.0-windows\Final Project OOP.Parking.deps.json
+C:\Users\TeammyNo1\Desktop\github\Final-Project-OOP-1\Final Project OOP.Parking\Final Project OOP.Parking\bin\Debug\net6.0-windows\Final Project OOP.Parking.runtimeconfig.json
+C:\Users\TeammyNo1\Desktop\github\Final-Project-OOP-1\Final Project OOP.Parking\Final Project OOP.Parking\bin\Debug\net6.0-windows\Final Project OOP.Parking.dll
+C:\Users\TeammyNo1\Desktop\github\Final-Project-OOP-1\Final Project OOP.Parking\Final Project OOP.Parking\bin\Debug\net6.0-windows\ref\Final Project OOP.Parking.dll
+C:\Users\TeammyNo1\Desktop\github\Final-Project-OOP-1\Final Project OOP.Parking\Final Project OOP.Parking\bin\Debug\net6.0-windows\Final Project OOP.Parking.pdb
+C:\Users\TeammyNo1\Desktop\github\Final-Project-OOP-1\Final Project OOP.Parking\Final Project OOP.Parking\obj\Debug\net6.0-windows\Final Project OOP.Parking.csproj.AssemblyReference.cache
+C:\Users\TeammyNo1\Desktop\github\Final-Project-OOP-1\Final Project OOP.Parking\Final Project OOP.Parking\obj\Debug\net6.0-windows\Final_Project_OOP.Parking.Form1.resources
+C:\Users\TeammyNo1\Desktop\github\Final-Project-OOP-1\Final Project OOP.Parking\Final Project OOP.Parking\obj\Debug\net6.0-windows\Final Project OOP.Parking.csproj.GenerateResource.cache
+C:\Users\TeammyNo1\Desktop\github\Final-Project-OOP-1\Final Project OOP.Parking\Final Project OOP.Parking\obj\Debug\net6.0-windows\Final Project OOP.Parking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TeammyNo1\Desktop\github\Final-Project-OOP-1\Final Project OOP.Parking\Final Project OOP.Parking\obj\Debug\net6.0-windows\Final Project OOP.Parking.AssemblyInfoInputs.cache
+C:\Users\TeammyNo1\Desktop\github\Final-Project-OOP-1\Final Project OOP.Parking\Final Project OOP.Parking\obj\Debug\net6.0-windows\Final Project OOP.Parking.AssemblyInfo.cs
+C:\Users\TeammyNo1\Desktop\github\Final-Project-OOP-1\Final Project OOP.Parking\Final Project OOP.Parking\obj\Debug\net6.0-windows\Final Project OOP.Parking.csproj.CoreCompileInputs.cache
+C:\Users\TeammyNo1\Desktop\github\Final-Project-OOP-1\Final Project OOP.Parking\Final Project OOP.Parking\obj\Debug\net6.0-windows\Final Project OOP.Parking.dll
+C:\Users\TeammyNo1\Desktop\github\Final-Project-OOP-1\Final Project OOP.Parking\Final Project OOP.Parking\obj\Debug\net6.0-windows\ref\Final Project OOP.Parking.dll
+C:\Users\TeammyNo1\Desktop\github\Final-Project-OOP-1\Final Project OOP.Parking\Final Project OOP.Parking\obj\Debug\net6.0-windows\Final Project OOP.Parking.pdb
+C:\Users\TeammyNo1\Desktop\github\Final-Project-OOP-1\Final Project OOP.Parking\Final Project OOP.Parking\obj\Debug\net6.0-windows\Final Project OOP.Parking.genruntimeconfig.cache
+C:\Users\TeammyNo1\Desktop\github\Final-Project-OOP-1\Final Project OOP.Parking\Final Project OOP.Parking\obj\Debug\net6.0-windows\Final_Project_OOP.Parking.Properties.Resources.resources
